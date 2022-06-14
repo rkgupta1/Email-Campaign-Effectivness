@@ -13,7 +13,7 @@ prospective customers into leads so that they stay with them in Business.
 <p>This Project includes 1 executable files, 1 presentation and 1 project documentation  as follows:</p>
 <h4>Executable Files:</h4>
 <ul>
-  <li><b>Team_3_Email_Campaign_Effectiveness_Prediction.ipynb</b> - Complete notebook containing Data exploration/Data processing/transformation/model development.</li>
+  <li><b>Email_Campaign_Effectiveness_Prediction.ipynb</b> - Complete notebook containing Data exploration/Data processing/transformation/model development.</li>
 </ul>
 
 <h4>Presentation:</h4>
@@ -89,8 +89,8 @@ XGBoost is free open source software available for use under the permissive Apac
 
 <h2> :clipboard: Execution Instruction</h2>
 <p>The order of execution of the program files is as follows:</p>
-<p><b>1) Team_3_Email_Campaign_Effectiveness_Prediction.ipynb</b></p>
-<p> The Team_3_Email_Campaign_Effectiveness_Prediction.ipynb contains the entire code for Data exploration/Data processing/transformation/model development </p>
+<p><b>1) Email_Campaign_Effectiveness_Prediction.ipynb</b></p>
+<p> Email_Campaign_Effectiveness_Prediction.ipynb contains the entire code for Data exploration/Data processing/transformation/model development </p>
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -111,13 +111,6 @@ XGBoost is free open source software available for use under the permissive Apac
 
 Himanshu Sharma | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
 
-<p> <i> Contact me for Data Science Project Collaborations</i></p>
-
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himan-10/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harsh1091996)
-[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://harshsharma1091996.medium.com/)
-[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1pyTvHo2Ec4xfCszL7YkHYAwWgFi5Uf2T/view?usp=sharing)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2> :books: References</h2>
