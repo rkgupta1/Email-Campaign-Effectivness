@@ -109,7 +109,7 @@ XGBoost is free open source software available for use under the permissive Apac
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
 
-Nishant|Arun Kumar | Avid Learner | Data Scientist at Ace Pharma | Machine Learning Engineer | Deep Learning enthusiast
+Nishant|Arun Kumar | Avid Learner | Data Scientist at Ace Pharma | Machine Learning Engineer |
 Almabetter Team
 
 
